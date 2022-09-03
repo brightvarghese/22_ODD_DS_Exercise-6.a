@@ -32,12 +32,12 @@ push, pop, push, pop
 ```
 None
 ```
-## Sample Input - 2
+## Sample Input - 3
 ```
 push, push, push, pop, pop, pop, pop, pop, push
 1, 2, 3, -, -, -, -, -, 10
 ```
-## Sample Output - 2
+## Sample Output - 3
 ```
 10=>None
 ```
